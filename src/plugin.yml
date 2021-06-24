@@ -1,0 +1,7 @@
+name: AdventCalendar
+author: Zane_Gamer
+version: 1.0
+main: mx.diosito.adventcalendar.Main
+api-version: 1.13
+commands:
+  advent:
